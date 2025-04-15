@@ -1,1 +1,1 @@
-# Crop-yield-prediction-using-machine-learning-mac
+# Crop-yield-prediction-using-machine-learning
